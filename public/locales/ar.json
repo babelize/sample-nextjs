@@ -1,0 +1,37 @@
+{
+  "header": {
+    "tasklane": "Tasklane",
+    "tasklaneHome": "الرئيسية Tasklane",
+    "main": "الرئيسية",
+    "features": "المميزات",
+    "pricing": "الأسعار",
+    "logIn": "تسجيل الدخول"
+  },
+  "page": {
+    "oneListForTheWhole": "قائمة واحدة لجميع أفراد الفريق",
+    "dueDatesThatMakeSense": "تواريخ استحقاق منطقية",
+    "worksOffline": "يعمل بدون اتصال بالإنترنت",
+    "everyoneSeesTheSameTasks": "يطلع الجميع على نفس المهام، فلا يضيع شيء في الدردشة.",
+    "tasklaneGroupsWorkIntoToday": "يقوم Tasklane بتنظيم العمل في أقسام: اليوم، هذا الأسبوع، وفي وقت لاحق.",
+    "addTasksOnTheTrain": "أضف المهام أثناء التنقل. ستتم مزامنتها فور اتصالك بالإنترنت مجددًا.",
+    "theToDoListForSmall": "قائمة المهام المخصصة فرق العمل الصغيرة",
+    "planTheWeekShareTasks": "خطط لأسبوعك، شارك المهام وتعرف على مواعيد الاستحقاق، في قائمة واحدة بسيطة.",
+    "features": "المميزات",
+    "startFree": "ابدأ مجانًا",
+    "freeForUpTo5": "مجاني حتى 5 أشخاص. لا توجد حاجة لبطاقة ائتمان.",
+    "madeForTeamsWhoWould": "مصمم خصيصاً للفرق التي تفضل إنجاز المهام."
+  },
+  "signup-form": {
+    "thanksWeSentALink": "شكراً لك! لقد أرسلنا رابطاً إلى {email}.",
+    "workEmail": "البريد الإلكتروني للعمل",
+    "createMyList": "إنشاء قائمتي"
+  },
+  "task-summary": {
+    "1TaskIsDueToday": "تستحق مهمة واحدة اليوم",
+    "duetodayTasksAreDueToday": "تستحق {dueToday} من المهام اليوم"
+  },
+  "_meta": {
+    "dir": "rtl",
+    "language": "ar"
+  }
+}

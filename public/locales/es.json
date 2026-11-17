@@ -1,0 +1,37 @@
+{
+  "page": {
+    "tasklaneGroupsWorkIntoToday": "Tasklane organiza el trabajo en hoy, esta semana y más tarde.",
+    "oneListForTheWhole": "Una lista para todo el equipo",
+    "dueDatesThatMakeSense": "Fechas de entrega que tienen sentido",
+    "worksOffline": "Funciona sin conexión",
+    "everyoneSeesTheSameTasks": "Todos ven las mismas tareas, así que nada se pierde en el chat.",
+    "addTasksOnTheTrain": "Añade tareas en el tren. Se sincronizan cuando vuelvas a tener conexión.",
+    "theToDoListForSmall": "La lista de tareas para equipos pequeños",
+    "planTheWeekShareTasks": "Planifica la semana, comparte tareas y mira qué vence en una sola lista sencilla.",
+    "features": "Características",
+    "startFree": "Empieza gratis",
+    "freeForUpTo5": "Gratis para hasta 5 personas. No se necesita tarjeta de crédito.",
+    "madeForTeamsWhoWould": "Hecho para equipos que prefieren hacer las cosas."
+  },
+  "header": {
+    "tasklaneHome": "Inicio de Tasklane",
+    "tasklane": "Tasklane",
+    "main": "Principal",
+    "features": "Características",
+    "pricing": "Precios",
+    "logIn": "Iniciar sesión"
+  },
+  "_meta": {
+    "dir": "ltr",
+    "language": "es"
+  },
+  "signup-form": {
+    "thanksWeSentALink": "¡Gracias! Hemos enviado un enlace a {email}.",
+    "workEmail": "Correo electrónico del trabajo",
+    "createMyList": "Crear mi lista"
+  },
+  "task-summary": {
+    "1TaskIsDueToday": "1 tarea vence hoy",
+    "duetodayTasksAreDueToday": "{dueToday} tareas vencen hoy"
+  }
+}

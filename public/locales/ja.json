@@ -1,0 +1,37 @@
+{
+  "header": {
+    "tasklaneHome": "Tasklane ホーム",
+    "tasklane": "Tasklane",
+    "main": "メイン",
+    "features": "機能",
+    "pricing": "料金プラン",
+    "logIn": "ログイン"
+  },
+  "page": {
+    "tasklaneGroupsWorkIntoToday": "Tasklane は、作業を今日、今週、およびそれ以降に整理します。",
+    "oneListForTheWhole": "チーム全員で共有できるひとつのリスト",
+    "dueDatesThatMakeSense": "わかりやすい期限設定",
+    "worksOffline": "オフライン対応",
+    "everyoneSeesTheSameTasks": "全員が同じタスクを確認できるため、チャットで情報が埋もれることはありません。",
+    "addTasksOnTheTrain": "電車の中でもタスクを追加できます。オンラインに戻ると自動で同期されます。",
+    "theToDoListForSmall": "小規模チームのためのToDoリスト",
+    "planTheWeekShareTasks": "1週間の計画、タスクの共有、期限の確認をシンプルなひとつのリストで。",
+    "features": "機能",
+    "startFree": "無料で始める",
+    "freeForUpTo5": "5人まで無料。クレジットカードは不要です。",
+    "madeForTeamsWhoWould": "とにかく仕事を終わらせたいチームのために。"
+  },
+  "_meta": {
+    "dir": "ltr",
+    "language": "ja"
+  },
+  "signup-form": {
+    "thanksWeSentALink": "{email}宛てにリンクを送信しました。",
+    "workEmail": "会社用メールアドレス",
+    "createMyList": "リストを作成"
+  },
+  "task-summary": {
+    "1TaskIsDueToday": "本日期限のタスクは1件です",
+    "duetodayTasksAreDueToday": "本日期限のタスクは{dueToday}件です"
+  }
+}
