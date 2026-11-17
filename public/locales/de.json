@@ -1,0 +1,37 @@
+{
+  "header": {
+    "tasklane": "Tasklane",
+    "tasklaneHome": "Tasklane-Startseite",
+    "main": "Hauptmenü",
+    "features": "Funktionen",
+    "pricing": "Preise",
+    "logIn": "Anmelden"
+  },
+  "page": {
+    "oneListForTheWhole": "Eine Liste für das gesamte Team",
+    "dueDatesThatMakeSense": "Fälligkeitsdaten, die Sinn ergeben",
+    "worksOffline": "Funktioniert offline",
+    "everyoneSeesTheSameTasks": "Jeder sieht dieselben Aufgaben, sodass nichts im Chat verloren geht.",
+    "tasklaneGroupsWorkIntoToday": "Tasklane unterteilt die Arbeit in Heute, Diese Woche und Später.",
+    "addTasksOnTheTrain": "Füge unterwegs Aufgaben hinzu. Sie werden synchronisiert, sobald du wieder online bist.",
+    "theToDoListForSmall": "Die To-Do-Liste für kleine Teams",
+    "planTheWeekShareTasks": "Plane die Woche, teile Aufgaben und sieh auf einen Blick, was fällig ist – in einer einzigen, übersichtlichen Liste.",
+    "features": "Funktionen",
+    "startFree": "Kostenlos starten",
+    "freeForUpTo5": "Kostenlos für bis zu 5 Personen. Keine Kreditkarte erforderlich.",
+    "madeForTeamsWhoWould": "Entwickelt für Teams, die lieber anpacken, statt lange zu planen."
+  },
+  "signup-form": {
+    "thanksWeSentALink": "Vielen Dank! Wir haben einen Link an {email} gesendet.",
+    "workEmail": "Geschäftliche E-Mail-Adresse",
+    "createMyList": "Meine Liste erstellen"
+  },
+  "task-summary": {
+    "1TaskIsDueToday": "1 Aufgabe ist heute fällig",
+    "duetodayTasksAreDueToday": "{dueToday} Aufgaben sind heute fällig"
+  },
+  "_meta": {
+    "dir": "ltr",
+    "language": "de"
+  }
+}

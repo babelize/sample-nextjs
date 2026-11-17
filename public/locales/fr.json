@@ -1,0 +1,37 @@
+{
+  "header": {
+    "tasklane": "Tasklane",
+    "tasklaneHome": "Accueil Tasklane",
+    "main": "Principal",
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "logIn": "Connexion"
+  },
+  "page": {
+    "oneListForTheWhole": "Une liste unique pour toute l'équipe",
+    "dueDatesThatMakeSense": "Des dates d'échéance logiques",
+    "worksOffline": "Fonctionne hors ligne",
+    "everyoneSeesTheSameTasks": "Tout le monde voit les mêmes tâches, pour que rien ne se perde dans les discussions.",
+    "tasklaneGroupsWorkIntoToday": "Tasklane organise le travail en trois catégories : aujourd'hui, cette semaine et plus tard.",
+    "addTasksOnTheTrain": "Ajoutez des tâches dans les transports. Elles se synchronisent une fois de retour en ligne.",
+    "theToDoListForSmall": "La liste de tâches pour les petites équipes",
+    "planTheWeekShareTasks": "Planifiez la semaine, partagez les tâches et visualisez les échéances dans une liste unique et intuitive.",
+    "features": "Fonctionnalités",
+    "startFree": "Commencer gratuitement",
+    "freeForUpTo5": "Gratuit jusqu'à 5 personnes. Aucune carte bancaire requise.",
+    "madeForTeamsWhoWould": "Conçu pour les équipes qui préfèrent agir."
+  },
+  "signup-form": {
+    "thanksWeSentALink": "Merci ! Nous avons envoyé un lien à {email}.",
+    "workEmail": "E-mail professionnel",
+    "createMyList": "Créer ma liste"
+  },
+  "task-summary": {
+    "1TaskIsDueToday": "1 tâche à échéance aujourd'hui",
+    "duetodayTasksAreDueToday": "{dueToday} tâches à échéance aujourd'hui"
+  },
+  "_meta": {
+    "dir": "ltr",
+    "language": "fr"
+  }
+}
